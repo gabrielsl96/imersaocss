@@ -1,0 +1,25 @@
+body {
+    background: #c73d20;
+    background-size: auto 100vh;
+    font-family: arial;
+    height: 100vh;
+  }
+  .menu {
+    background: white;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style:none;
+  }
+  a {
+    color: #382913;
+  }
+  .site-title,
+  .site-subtitle {
+    color:whitesmoke;
+    text-align: center;
+  }
+  
